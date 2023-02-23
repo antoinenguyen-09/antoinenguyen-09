@@ -25,7 +25,7 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/antoineguyen_09)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyhoang200901@gmail.com)
 [![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](https://hackmd.io/@antoinenguyen09)
-[![image](https://img.shields.io/badge/Facebook-facebok-blue?style=for-the-badge&logo=blogger&logoColor=blue)](https://www.facebook.com/antoinenguyen09)
+[![image](https://img.shields.io/badge/Facebook-facebok-blue?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/antoinenguyen09)
 </div>
 
 <hr>
